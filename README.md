@@ -2,6 +2,8 @@
 
 类似 DeepSeek 的 AI 问答 Android 应用，使用 Kotlin Compose 和 MVI 架构实现。
 
+https://github.com/skytoby/chatbot/blob/main/screenshot/app.gif
+
 ## 技术栈
 
 - **语言**: Kotlin
